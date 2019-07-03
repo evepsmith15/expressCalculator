@@ -1,0 +1,23 @@
+{
+  "name": "package",
+  "version": "1.0.0",
+  "description": "W8S14Assignment1",
+  "main": "expressCalculator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/evepsmith15/expressCalculator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/evepsmith15/expressCalculator/issues"
+  },
+  "homepage": "https://github.com/evepsmith15/expressCalculator#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
